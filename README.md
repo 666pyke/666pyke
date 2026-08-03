@@ -12,7 +12,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://voxel.shop/user/61329/mareleepyke">
-    <img src="https://www.google.com/s2/favicons?domain=voxel.shop&sz=64" width="18" height="18" alt="VoxelShop" />
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6d2.svg" width="18" height="18" alt="VoxelShop" />
     VoxelShop
   </a>
   &nbsp;&nbsp;
