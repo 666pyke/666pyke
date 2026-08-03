@@ -11,6 +11,11 @@
     BuiltByBit Profile
   </a>
   &nbsp;&nbsp;
+  <a href="https://voxel.shop/user/61329/mareleepyke">
+    <img src="https://www.google.com/s2/favicons?domain=voxel.shop&sz=64" width="18" alt="VoxelShop" />
+    VoxelShop
+  </a>
+  &nbsp;&nbsp;
   <a href="https://epyk.gitbook.io/epyk-docs">
     <img src="https://www.google.com/s2/favicons?domain=gitbook.io&sz=64" width="18" alt="GitBook" />
     Documentation
